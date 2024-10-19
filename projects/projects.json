@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Thelavande Residance",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the Laravel.",
+    "image": "paket",
+    "category": "laravel"
+  },
+  {
+    "name": "MaintainHub",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the Laravel.",
+    "image": "maintain",
+    "category": "laravel"
+  },
+  {
+    "name": "Mig Agro Sistem",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the Laravel.",
+    "image": "erp-mig",
+    "category": "laravel"
+  },
+  {
+    "name": "Mig Agro Sistem",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the Laravel.",
+    "image": "aqiqahpro",
+    "category": "laravel"
+  },
+  {
+    "name": "Bengkel Sistem",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the Laravel.",
+    "image": "bengkel",
+    "category": "laravel"
+  },
+  {
+    "name": "Monitoring API Schedule",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the Laravel.",
+    "image": "api-mig",
+    "category": "laravel"
+  }
+]
