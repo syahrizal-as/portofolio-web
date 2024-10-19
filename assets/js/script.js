@@ -45,7 +45,7 @@ $(document).ready(function () {
     emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
 
     emailjs
-      .sendForm("contact_service", "template_contact", "#contact-form")
+      .sendForm("skillsContainer", "template_contact", "#contact-form")
       .then(
         function (response) {
           console.log("SUCCESS!", response.status, response.text);
