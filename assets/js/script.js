@@ -74,7 +74,7 @@ document.addEventListener("visibilitychange", function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-  strings: ["Laravel Development", "Flutter Development"],
+  strings: ["Laravel Development"],
   loop: true,
   typeSpeed: 50,
   backSpeed: 25,
